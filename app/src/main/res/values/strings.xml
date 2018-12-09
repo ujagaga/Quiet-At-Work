@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quiet At Work</string>
+    <string name="selected_wifi">Selected WiFi SSID:</string>
+    <string name="no_wifi">No WiFi network configured.</string>
+    <string name="service_start">Start service</string>
+    <string name="service_stop">Stop service</string>
+    <string name="rescan_wifi">Rescan WiFi</string>
+    <string name="on_connect_switch">On connect switch to profile:</string>
+    <string name="on_disconnect_switch">On disconnect switch to profile:</string>
+    <string name="apply">Apply</string>
+</resources>
